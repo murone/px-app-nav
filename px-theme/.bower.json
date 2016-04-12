@@ -1,6 +1,6 @@
 {
   "name": "px-theme",
-  "version": "0.6.4",
+  "version": "0.6.6",
   "main": [
     "px-theme.html"
   ],
@@ -36,13 +36,13 @@
     "px-widths-responsive-design": "https://github.com/PredixDev/px-widths-responsive-design.git#~0.3.0"
   },
   "homepage": "https://github.com/PredixDev/px-theme",
-  "_release": "0.6.4",
+  "_release": "0.6.6",
   "_resolution": {
     "type": "version",
-    "tag": "v0.6.4",
-    "commit": "feedb1f0728f2cb61c950a6c02f7ad014dac9315"
+    "tag": "v0.6.6",
+    "commit": "25a1b73a8f3e3ee8dd62978afe67cda7f0bf10d9"
   },
   "_source": "https://github.com/PredixDev/px-theme.git",
-  "_target": "~0.6.1",
+  "_target": "~0.6.5",
   "_originalSource": "https://github.com/PredixDev/px-theme.git"
 }
