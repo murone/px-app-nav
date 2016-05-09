@@ -1,6 +1,6 @@
 {
   "name": "px-app-nav",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": [
     "px-app-nav.html"
   ],
@@ -26,14 +26,13 @@
     "px-login": "https://github.com/predixDev/px-login.git#~0.3.0"
   },
   "homepage": "https://github.com/PredixDev/px-app-nav",
-  "_release": "1.5.2",
+  "_release": "1.5.3",
   "_resolution": {
     "type": "version",
-    "tag": "v1.5.2",
-    "commit": "650c35ae5f99380a3332bef262fa06651cccf6b7"
+    "tag": "v1.5.3",
+    "commit": "0af841d0f059b48f598e8dbad43848886cd2ff62"
   },
   "_source": "https://github.com/PredixDev/px-app-nav.git",
   "_target": "^1.5.2",
-  "_originalSource": "px-app-nav",
-  "_direct": true
+  "_originalSource": "px-app-nav"
 }
