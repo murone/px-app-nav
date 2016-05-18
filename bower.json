@@ -17,7 +17,7 @@
   "dependencies": {
     "polymer": "~v1.4.0",
     "px-theme": "https://github.com/PredixDev/px-theme.git#~0.7.0",
-    "web-animations-js": "~2.0.0"
+    "web-animations-js": "^2.2.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#~1.1.0",
@@ -25,5 +25,8 @@
     "px-list-bare-design": "https://github.com/predixDev/px-list-bare-design.git#~0.2.0",
     "px-starter-kit-design": "https://github.com/predixDev/px-starter-kit-design.git#~0.4.0",
     "px-login": "https://github.com/predixDev/px-login.git#~0.3.0"
+  },
+  "resolutions": {
+    "web-animations-js": "^2.2.0"
   }
 }
