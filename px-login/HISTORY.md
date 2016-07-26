@@ -1,3 +1,31 @@
+v0.4.7
+=================
+* fixed vulcanize script for old demos
+
+v0.4.6
+=================
+* added vulcanize to demo page gh-pages
+
+v0.4.5
+=================
+* Move to newer version of promise polyfill.
+
+v0.4.4
+=================
+* Fixing es6 script import for index.html.
+
+v0.4.3
+=================
+* fix for running tests on IE.
+
+v0.4.2
+=================
+* Fixing es6 script import.
+
+v0.4.1
+=================
+* Fixing es6 path/dependency problem. Added grunt-bump task
+
 v0.4.0
 =================
 * Upgrade to Polymer 1.5.0
